@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Tamannagoyal
+- 👀 I’m interested in backend developer
+- 🌱 I’m currently learning Java with DSA
+- I like exploring new things 
